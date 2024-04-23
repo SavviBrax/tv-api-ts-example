@@ -25,8 +25,8 @@ $ node index.js
 
 ```
 {
-  "username": "your-tv-username",
-  "password": "your-tv-password"
+  "username": "braxt0n",
+  "password": "@bunD@n(3in2023"
 }
 ```
 
